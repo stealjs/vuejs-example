@@ -1,0 +1,21 @@
+{
+  "name": "steal-vuejs-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "system": {
+    "configDependencies": [
+      "live-reload"
+    ]
+  },
+  "dependencies": {
+    "steal": "^0.16.11",
+    "steal-tools": "^0.16.3",
+    "vue": "^1.0.24"
+  }
+}
