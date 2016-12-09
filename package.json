@@ -16,6 +16,6 @@
   "dependencies": {
     "steal": "^0.16.11",
     "steal-tools": "^0.16.3",
-    "vue": "^1.0.24"
+    "vue": "^2.1.4"
   }
 }
