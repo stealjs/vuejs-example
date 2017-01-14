@@ -10,19 +10,19 @@
     <ul>
       <li>
         To learn more about Vue, visit
-        <a href="{{ docsURL }}" target="_blank">
+        <a v-bind:href="docsURL" target="_blank">
           {{ humanizeURL(docsURL) }}
         </a>
       </li>
       <li>
         For live help with simple questions, check out
-        <a href="{{ gitterURL }}" target="_blank">
+        <a v-bind:href="gitterURL" target="_blank">
           the Gitter chat
         </a>
       </li>
       <li>
         For more complex questions, post to
-        <a href="{{ forumURL }}" target="_blank">
+        <a v-bind:href="forumURL" target="_blank">
           the forum
         </a>
       </li>

@@ -8,14 +8,23 @@
   },
   "author": "",
   "license": "MIT",
-  "system": {
+  "steal": {
     "configDependencies": [
       "live-reload"
+    ],
+    "map": {
+      "vue": "vue/dist/vue.common"
+    },
+    "plugins": [
+      "steal-less"
     ]
   },
   "dependencies": {
-    "steal": "^0.16.11",
-    "steal-tools": "^0.16.3",
-    "vue": "^1.0.24"
+    "steal": "^1.0.10",
+    "steal-tools": "^1.0.3",
+    "vue": "^2.1.4"
+  },
+  "devDependencies": {
+    "steal-less": "^1.1.0"
   }
 }
