@@ -5,4 +5,4 @@
 3. Start an `http-server` in the root directory.
 4. Open in your browser.
 
-![Steal-Vue Example Screenshot](https://raw.githubusercontent.com/stealjs/vuejs-example/master/screenshot.png "Simple Steal-VueJS Example App")
+![Steal-Vue Example Screenshot](https://raw.githubusercontent.com/stealjs/vuejs-example/master/screenshot.jpg "Simple Steal-VueJS Example App")
