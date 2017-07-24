@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "steal": "^1.0.10",
-    "steal-tools": "^1.0.3",
+    "steal-tools": "^1.7.0",
     "vue": "^2.1.4"
   },
   "devDependencies": {
