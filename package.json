@@ -20,7 +20,7 @@
     ]
   },
   "dependencies": {
-    "steal": "^1.0.10",
+    "steal": "^1.12.1",
     "steal-tools": "^1.0.3",
     "vue": "^2.1.4"
   },
