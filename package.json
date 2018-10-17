@@ -25,6 +25,6 @@
     "vue": "^2.1.4"
   },
   "devDependencies": {
-    "steal-less": "^1.1.0"
+    "steal-less": "^1.3.4"
   }
 }
